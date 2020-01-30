@@ -1,0 +1,33 @@
+<Math>
+pow n , m   // n의 m 제곱
+round // 반올림
+ceil // 올림
+floor // 내림
+sqrt // 제곱근
+random // 0~ 1.0 사이의 랜덤숫자
+
+typeof ~ // ~의 데이터 형을 알려준다.
+\ // escape 문자
+~.length // ~의 길이를 알려준다.
+
+// 변수명은 특수문자를 제외한 모든 변수로 시작할 수 있음.
+
+null == undefined // true
+null === undefined // false
+true == 1 //  true
+true === 1 // false
+0 === -0 // true
+NaN === NaN // false
+
+조건문에서 false 로 간주되는 데이터형
+- ‘’ (빈문자열
+- undefined
+- 값이 할당되지 않은 변수
+- null
+- NaN
+
+break // 반복문의 종결
+continute // 반복문 내의 현재 구문 실행 중단 및 반복문 유지
+
+
+https://opentutorials.org/course/743/4736
