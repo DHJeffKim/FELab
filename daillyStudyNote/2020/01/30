@@ -29,5 +29,8 @@ NaN === NaN // false
 break // 반복문의 종결
 continute // 반복문 내의 현재 구문 실행 중단 및 반복문 유지
 
+array.push('~') // 배열의 가장 뒤에 복수, 단수의 원소를 추가 (**원본 데이터의 값이 변경된다.**)
+array.concat(~,~, ,,) // 배열의 가장 뒤에 복수, 단수의 원소를 추가 (**원본 데이터의 값이 '변경되지 않는다.'**)
+
 
 https://opentutorials.org/course/743/4736
